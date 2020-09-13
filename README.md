@@ -1,19 +1,6 @@
-# **Christopher Froehlich**
-
-jobs@luddites.me ▪ 607.431.8674
-
-## Address
-
-38 Deerhaven Dr
- Ithaca, NY
- 14850
- United States
-
-## Profile
-
 I make the web a better place, in whatever ways I can, every day I can. I finish the day divided between two states: the things I am excited about and the anticipation of things I have not yet discovered.
 
-## Skills
+# Skills
 
 - Languages: C#, TypeScript, JavaScript, SQL, HTML
 - Technologies: MSSQL, Oracle, MySQL, PostgreSQL, IIS, RabbitMq, SQS, NodeJs, AWS, Azure
@@ -22,7 +9,7 @@ I make the web a better place, in whatever ways I can, every day I can. I finish
 - Roles: Architecture, Design, Developer/Contributor, Hiring, Team Lead, Project Lead, Manager
 - Experience: C++, Perl, Java, PHP, F#, R, GraphQL, ML/NLP
 
-## Work experience
+# Work experience
 
 ## NS8 Inc ▪ Las Vegas
 
@@ -83,7 +70,7 @@ _01/2000 – 01/2006_
 
 The U.S. Army&#39;s Signals Intelligence conducts clandestine operations by analyzing digital and analog communications.
 
-## Publications
+# Publications
 
 ## The Complete Idiot&#39;s Guide to Learning Russian, 2nd Edition
 
@@ -93,7 +80,7 @@ _07/2004_
 
 _01/2011_
 
-## Education
+# Education
 
 ## Defense Language Institute
 
